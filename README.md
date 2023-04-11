@@ -17,8 +17,9 @@ For more information, visit **[my Notion](https://sideways-capacity-71f.notion.s
 - `2023.03 ~ 2023.08` Naver Boostcamp AI Tech 5th
 - `2022.09 ~ 2022.12` Teaching Assistant of Problem Solving and Algorithm
 - `2022.01 ~ 2022.02` [Paper Study](https://github.com/juhyein/2022_Winter_Paper_Study)
-- `2021.03 ~ 2022.06` [P-SAT](https://github.com/P-Sat) (SKKU Data Analytics Club)    
-Deep Learning Team member, Time Series Analysis Team leader, Leader
+- `2022.03 ~ 2022.06` Leader in [P-SAT](https://github.com/P-Sat) (SKKU Data Analytics Club)
+- `2021.09 ~ 2021.12` Time Series Analysis Team leader in P-SAT 
+- `2021.03 ~ 2021.06` Deep Learning Team member in P-SAT 
 <br>
 
 ## Prizes   
